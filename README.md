@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, CI/CD, Move**
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I regularly write articles on [https://medium.com/@sdl182975](https://medium.com/@sdl182975)
 
 - 📫 How to reach me **sdl182975@gmail.com**
 
