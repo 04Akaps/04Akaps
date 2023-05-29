@@ -2,7 +2,9 @@
 <h3 align="center">BlockChain & Golang Developer</h3>
 
 - 🔭 I’m currently working on **Wemade - WemixPlay**
-<a href="https://wemixplay.com/" target="_blank" rel="noreferrer"> 🔗 This is Game Platform </a>
+
+
+<a href="https://wemixplay.com/" target="_blank" rel="noreferrer"> &nbsp;&nbsp;  🔗 Wemix Game Platform </a>
 
 - 🌱 I’m currently learning **Golang, Mongo, Infura**
 
