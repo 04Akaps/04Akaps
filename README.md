@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hojin</h1>
 <h3 align="center"> Server Engineer </h3>
 
-- 🔭 I’m currently working on **Wemade - WemixPlay**
-
-
-<a href="https://wemixplay.com/" target="_blank" rel="noreferrer"> &nbsp;&nbsp;  🔗 Wemix Game Platform </a>
-
-- 🌱 I’m currently learning **Golang, Mongo, Infura**
-
-- 📝 I regularly write articles on [https://medium.com/@sdl182975](https://medium.com/@sdl182975)
 
 - 📫 How to reach me **sdl182975@gmail.com**
 
