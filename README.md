@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hong</h1>
-<h3 align="center">백엔드 개발자 | Backend Developer</h3>
+<img src="https://komarev.com/ghpvc/?username=04akapsgithub&label=Profile%20views&color=0e75b6&style=flat" alt="04akapsgithub" /> <h3 align="center">백엔드 개발자 | Backend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Kotlin+%7C+Golang+%7C+Backend+Developer;Experience+with+MongoDB%2C+MySQL%2C+Redis;Message+Broker+with+Kafka" alt="Typing SVG" />
@@ -37,11 +36,11 @@
 ## 📊 GitHub Stats | GitHub 통계
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=04akapsgithub&show_icons=true&theme=tokyonight&locale=en" alt="04akapsgithub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=04Akaps&show_icons=true&theme=tokyonight&locale=en" alt="04Akaps" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=04akapsgithub&theme=tokyonight" alt="04akapsgithub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=04Akaps&theme=tokyonight" alt="04Akaps" />
 </p>
 
 ## 📫 Connect With Me | 연락처
@@ -50,10 +49,4 @@
   <a href="mailto:sdl182975@gmail.com">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=04akapsgithub&label=Profile%20views&color=0e75b6&style=flat" alt="04akapsgithub" />
 </p>
