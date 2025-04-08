@@ -8,7 +8,7 @@
 
 - 🔭 백엔드 시스템 설계 및 구현에 집중하고 있습니다
 - 🌱 현재 분산 시스템과 마이크로서비스 아키텍처를 공부하고 있습니다
-- 👨‍💻 저의 프로젝트들은 [여기서](https://github.com/04AkapsGithub?tab=repositories) 확인하실 수 있습니다
+- 👨‍💻 저의 프로젝트들은 [여기서]([https://github.com/04AkapsGithub?tab=repositories](https://github.com/04Akaps?tab=repositories)) 확인하실 수 있습니다
 
 ## 🛠️ Tech Stack | 기술 스택
 
@@ -32,8 +32,6 @@
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
   </a>
 </p>
-
-## 📊 GitHub Stats | GitHub 통계
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=04Akaps&show_icons=true&theme=tokyonight&locale=en" alt="04Akaps" />
